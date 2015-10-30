@@ -20,5 +20,15 @@ of adding more modular commits. We can make changes to
 10 files and make multiple logical commits of those 10
 files. For example 3 files may relate to a commit and 
 the other 7 may relate to another logical commit.
+
 =====================================================
+
+How can you use the staging area to make sure you 
+have one commit per logical change?
+
+I can put only the related files to the staging are before
+doing a commit. 
+
+=====================================================
+
 
