@@ -1,0 +1,24 @@
+What happens when you initialize a repository? Why 
+do you need to do it?
+
+Git starts tracking files in that directory. I need 
+to do this for every project I want to track using 
+git. 
+
+=====================================================
+
+How is the staging area different from the working 
+directory and the repository? What value do you think 
+it offers?
+
+Staging area can have some of the files of the working
+directory, that are related to a particular commit.
+
+After the staged files are commited they are part of the 
+Repository. Having staging area gives us the freedom
+of adding more modular commits. We can make changes to
+10 files and make multiple logical commits of those 10
+files. For example 3 files may relate to a commit and 
+the other 7 may relate to another logical commit.
+=====================================================
+
