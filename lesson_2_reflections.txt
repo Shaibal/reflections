@@ -5,7 +5,7 @@ Git starts tracking files in that directory. I need
 to do this for every project I want to track using 
 git. 
 
-=====================================================
+=========================================================
 
 How is the staging area different from the working 
 directory and the repository? What value do you think 
@@ -21,7 +21,7 @@ of adding more modular commits. We can make changes to
 files. For example 3 files may relate to a commit and 
 the other 7 may relate to another logical commit.
 
-=====================================================
+=========================================================
 
 How can you use the staging area to make sure you 
 have one commit per logical change?
@@ -29,6 +29,14 @@ have one commit per logical change?
 I can put only the related files to the staging are before
 doing a commit. 
 
-=====================================================
+=========================================================
 
+What are some situations when branches would be helpful 
+in keeping your history organized? How would branches help?
+
+When I want to test a new feature or a personal branch
+where I can commit and check my part of code without 
+affecting the whole team's code.
+
+=========================================================
 
