@@ -40,3 +40,14 @@ affecting the whole team's code.
 
 =========================================================
 
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+We have changes from both branches in a single branch
+when we are sure we want both features.
+To understand when a branch was created and when was 
+it merged back to the original. 
+
+=========================================================
+
+ 
